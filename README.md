@@ -19,3 +19,6 @@ The project can be devided into several steps:
 
 ![WhatsApp Image 2023-05-25 at 19 11 50](https://github.com/adnanO999/RoboticArm/assets/88556508/6b4055a9-60af-48ee-a999-4717e7d7c0bd)
 
+# Digital Twin
+I generated the URDF file of the arm and used it to create a visualization for the robot in Rviz and Gazebo. The robotic arm was also configured using moveit and a hardware interface with arduino was developed.
+
