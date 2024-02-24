@@ -22,7 +22,9 @@ The project can be devided into several steps:
 # Digital Twin
 I generated the URDF file of the arm and used it to create a visualization for the robot in Rviz and Gazebo. The robotic arm was also configured using moveit and a hardware interface with arduino was developed.
 
+# demo
+https://github.com/adnanO999/RoboticArm/assets/88556508/9d7d52b3-75fa-45aa-a246-c30f5f9f99bc
 
-https://github.com/adnanO999/RoboticArm/assets/88556508/9dfe867d-7b10-4c05-88b2-3f99dddcb761
+
 
 
