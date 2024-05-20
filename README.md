@@ -2,7 +2,8 @@
 3DOF Robotic Arm Color Sorter (project under developement)
 
 
-![2](https://github.com/adnanO999/RoboticArm/assets/88556508/8e71b81a-bc9c-48d6-a599-73319ca65430)
+![2 (1)](https://github.com/adnanO999/RoboticArm/assets/88556508/1ceca98d-8418-4da9-8604-2ea7d8d06196)
+
 
 
 # Aim of The project
