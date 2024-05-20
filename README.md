@@ -1,21 +1,22 @@
 # Color Sorter Robotic Arm
-3DOF Robotic Color Sorter Robotic Arm (project under developement)
+3DOF Robotic Arm Color Sorter (project under developement)
 
-![WhatsApp Image 2023-05-28 at 18 00 48](https://github.com/adnanO999/RoboticArm/assets/88556508/a3798c9c-1666-448f-ac3b-4e5ba4960099)
+![2](https://github.com/adnanO999/RoboticArm/assets/88556508/4bd8b7b2-96a7-4d38-b446-cdbc11732405)
+
 
 # Aim of The project
-This project aims to enhance my understanding of robotics principles such as manipulator design that relies on forward and inverse kinematics, path planing and other concepts.
-Moreover incorporating computer vison using OpenCV and pillow libraries to differentiate between colours.
-
-Since I am currently learnig ROS2 I will be learning how to simulate robots using ROS2 and Gazebo.
+This project aims to utilize robotics principles such as manipulator design, kinematics (forward and inverse), path planing and other concepts.
+Moreover incorporating computer vison using OpenCV and Pillow libraries along with using external camera to detect objects with different colors.
+The overall architectrue will be developed using ROS noetic 
 
 The project can be devided into several steps:
-* Modeling of the arm on solidworks
-* 3D printing the model (on my 3D printer)/assembly
-* Use of forward and inverce kinematics equation to derive the model of the arm
+* Modeling of the arm on solidworks (the model is already available online but I made some modifications)
+* 3D printing the model along with assembly
+* Use of forward and inverce kinematics equations to move the arm
 * Use matlab to validate and control the arm (along with simscape where the solidworls model will be used)
 * Motion generation
 * Color detection
+* Pick and Place objects
 
 ![WhatsApp Image 2023-05-25 at 19 11 50](https://github.com/adnanO999/RoboticArm/assets/88556508/6b4055a9-60af-48ee-a999-4717e7d7c0bd)
 
